@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "text": "Get dinner fixings",
+    "text": "Station One",
     "done": false
   },
   {
     "id": 2,
-    "text": "Cook dinner",
+    "text": "Station Two",
     "done": false
   },
   {
     "id": 3,
-    "text": "Eat dinner",
+    "text": "Station Three",
     "done": false
   }
 ]
