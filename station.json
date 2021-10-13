@@ -1,17 +1,14 @@
 [
   {
+    "userId": 1,
     "id": 1,
-    "text": "Station One",
-    "done": false
+    "title": "Hello world",
+    "completed": false
   },
   {
+    "userId": 1,
     "id": 2,
-    "text": "Station Two",
-    "done": false
+    "title": "Hello world one,
+    "completed": false
   },
-  {
-    "id": 3,
-    "text": "Station Three",
-    "done": false
-  }
 ]
