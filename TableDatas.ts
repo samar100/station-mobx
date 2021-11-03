@@ -1,6 +1,4 @@
-import { StationsContactRecord } from '../slice/types';
-
-export const ContactsTableDatas: StationsContactRecord[] = [
+[
   {
     occCallOrder: 1,
     contactType: 'Individual',
