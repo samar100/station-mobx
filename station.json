@@ -100,5 +100,5 @@
     outOfOfficeTo: '',
     email: 'DutyManager123@gmail.com',
     status: 1,
-  },
+  }
 ]
